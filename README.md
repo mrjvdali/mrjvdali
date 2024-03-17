@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mrjvdali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Javed Ali also know as "Jvd Ali" 
+- 👀 I’m interested to develop or solving real life problems with tech 
+- 🌱 I’m currently learning web development (MERN)Stack
+- 💞️ I’m available to collaborate on any open source project.
+- 📫 my email to reach me mrjvdali@gmail.com
 
 <!---
 mrjvdali/mrjvdali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
