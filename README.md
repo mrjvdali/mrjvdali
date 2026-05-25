@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Web+%2B+Mobile+Testing+Specialist;Playwright+%7C+Selenium+%7C+API+Testing;AI-Assisted+Testing+Workflows;Building+Scalable+Automation+Systems)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="mailto:mrjvdali@gmail.com">
+<a href="mailto:work.javedali@gmail.com">
 <img src="https://img.shields.io/badge/Email-mrjvdali%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
